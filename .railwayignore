@@ -1,0 +1,8 @@
+# Ignore files for Railway deployment
+.git/
+__pycache__/
+.env
+sample.env
+*.pyc
+*.log
+node_modules/
